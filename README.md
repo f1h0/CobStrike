@@ -3,7 +3,7 @@
 
 CobaltStrike's source code,tested some code and function
 
-Thanks to [cs](https://www.cobaltstrike.com/), [jetbrains](https://www.jetbrains.com/?from=https://github.com/Freakboy/cobaltstrike)
+Thanks to [cs](https://www.cobaltstrike.com/), [jetbrains](https://www.jetbrains.com/?from=https://github.com/Freakboy/CobaltStrike)
 
 This src code could be run in IDEA,depends jdk8+,gradle 5.x
 
